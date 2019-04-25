@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "akka-sample", "akka-sample\akka-sample.csproj", "{C69AA0DB-E1F9-47BA-A03F-01044E8F9A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "akka-sample-test", "akka-sample-test\akka-sample-test.csproj", "{6F1EDCE2-F26D-4796-B1EE-D9AA582B6B40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C69AA0DB-E1F9-47BA-A03F-01044E8F9A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69AA0DB-E1F9-47BA-A03F-01044E8F9A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69AA0DB-E1F9-47BA-A03F-01044E8F9A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69AA0DB-E1F9-47BA-A03F-01044E8F9A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F1EDCE2-F26D-4796-B1EE-D9AA582B6B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F1EDCE2-F26D-4796-B1EE-D9AA582B6B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F1EDCE2-F26D-4796-B1EE-D9AA582B6B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F1EDCE2-F26D-4796-B1EE-D9AA582B6B40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91EED027-F23F-4C8D-8C46-7AEF81AB1BC9}
+	EndGlobalSection
+EndGlobal
