@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>akka_sample</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Akka" Version="1.3.12" />
+    <PackageReference Include="Akka.DI.AutoFac" Version="1.3.9" />
+    <PackageReference Include="Autofac" Version="4.9.2" />
+  </ItemGroup>
+
+</Project>
